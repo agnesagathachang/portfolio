@@ -8,7 +8,7 @@ function Navbar() {
 
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1sjI3B1LNXKGa4ufbBMjr7DNOafY2fKCx/view?usp=sharing"
+      "https://drive.google.com/file/d/1lZVf59OVYpypujH2xZkr9F_nNVYNfZxs/view?usp=sharing"
     );
   };
 

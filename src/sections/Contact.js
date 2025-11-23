@@ -73,14 +73,6 @@ function Contact() {
           />
           <span className="contact-info">agnesagathachang@gmail.com</span>
         </div>
-        <div className="contact-details" onClick={sendMessage}>
-          <img
-            src={`${process.env.PUBLIC_URL}/images/decorations/phone.webp`}
-            alt="phone"
-            className="contact-icon"
-          />
-          <span className="contact-info">081282209870</span>
-        </div>
 
         <a href="https://www.linkedin.com/in/agnes-agatha-chang-174905251/">
           <div className="contact-details">

@@ -33,7 +33,7 @@ function AboutMe() {
         <div className="aboutme-image">
           <div>
             <img
-              src={`${process.env.PUBLIC_URL}/images/decorations/pic.webp`}
+              src={`${process.env.PUBLIC_URL}/images/decorations/pic.png`}
               alt="Agnes"
             />
           </div>
@@ -44,28 +44,12 @@ function AboutMe() {
           </div>
           <span className="emoji">👋</span>&nbsp; Hello! I'm Agnes, a passionate{" "}
           software engineer specializing in
-          <span className="highlight"> web development</span>. Committed to
-          continuous learning and collaboration, I thrive on driving innovation
-          within teams. I'm dedicated to staying ahead of the curve by
-          constantly adapting to and mastering new technologies.
+          <span className="highlight"> web development</span> with hands-on
+          experience in building clean, efficient, and user-focused
+          applications. Committed to continuous learning and collaboration, I'm
+          dedicated to staying ahead of the curve by constantly adapting to and
+          mastering new technologies.
           <br />
-          <br /> 💻&nbsp; With a robust skill set encompassing{" "}
-          <span className="highlight">HTML</span>,
-          <span className="highlight"> CSS</span>, and{" "}
-          <span className="highlight">JavaScript</span>, I specialize in
-          creating visually stunning and intuitive user interfaces that drive
-          engagement and enhance user experiences. <br />
-          <br /> 🔧&nbsp; Leveraging the power of modern frameworks like{" "}
-          <span className="highlight">React</span> and{" "}
-          <span className="highlight">Express.js</span>, I develop dynamic and
-          scalable web applications that push boundaries and deliver seamless
-          user experiences. <br />
-          <br /> ⚙️&nbsp; On the server side, I'm well-versed in{" "}
-          <span className="highlight">Node.js</span>, utilizing its power to
-          develop efficient and high-performing backend solutions. My database
-          experiences includes <span className="highlight">MongoDB</span> and{" "}
-          <span className="highlight">PostgreSQL</span>, ensuring data integrity
-          and optimal performance.
         </div>
       </div>
     </div>

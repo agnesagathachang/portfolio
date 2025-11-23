@@ -38,11 +38,16 @@ function Skills() {
 
   const logos = [
     { image: "React", name: "ReactJS" },
+    { image: "Typescript", name: "Typescript" },
+    { image: "Golang", name: "Golang" },
     { image: "Node", name: "NodeJS" },
     { image: "Express", name: "ExpressJS" },
-    { image: "Postgre", name: "PostgreSQL" },
     { image: "Next", name: "NextJS" },
-    { image: "Typescript", name: "Typescript" },
+    { image: "Postgre", name: "PostgreSQL" },
+    { image: "Oracle", name: "Oracle" },
+    { image: "Airflow", name: "Airflow" },
+    { image: "Redis", name: "Redis" },
+    { image: "Kafka", name: "Kafka" },
     { image: "Mongo", name: "MongoDB" },
     { image: "Html", name: "HTML" },
     { image: "Css", name: "CSS" },
