@@ -39,10 +39,6 @@ function Contact() {
     window.open(`mailto:agnesagathachang@gmail.com`);
   };
 
-  const sendMessage = () => {
-    window.open(`http://wa.me/6281282209870`);
-  };
-
   return (
     <div id="contact" className="contact-container">
       <div className="meteors">
